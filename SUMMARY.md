@@ -1,8 +1,14 @@
-# 大纲
-在这里，你可以看到好玩的，能赚到钱的闪电头皮...
 * [简介](README.md)
 * [交易系统介绍](jieshao/jieshao.md)
    * [什么是延迟剥头皮](jieshao/smsycbtp.md)
    * [闪电头皮系统能做什么](jieshao/whatcando.md)
    * [真实做单记录](jieshao/realhistory.md)
-   * 价格
+   * 系统功能介绍
+   * 系统购买
+   * 系统免费测试
+* 参数设置说明
+   * [基础参数](cs/basic.md)
+   * 下单条件参数
+   * 下单数量参数
+   * 平单条件参数
+* [系统更新日志](update.md)

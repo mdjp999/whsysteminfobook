@@ -5,3 +5,8 @@
    * [什么是延迟剥头皮](jieshao/smsycbtp.md)
    * [闪电头皮系统能做什么](jieshao/whatcando.md)
    * [真实做单记录](jieshao/realhistory.md)
+
+
+<script>
+alert("asd");
+</script>

@@ -6,7 +6,7 @@
    * 系统购买
    * 系统免费测试
 * 系统功能介绍
-   * 保存配置(function/saveConf.md)
+   * [保存配置](function/saveConf.md)
 * 参数设置说明
    * [基础参数](cs/basic.md)
    * 下单条件参数

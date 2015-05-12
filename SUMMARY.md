@@ -6,6 +6,7 @@
    * 系统购买
    * 系统免费测试
 * 系统功能介绍
+   * [系统运行](function/run.md)
    * [保存配置](function/saveConf.md)
    * [程序更新](function/howtoupdate.md)
 * 参数设置说明

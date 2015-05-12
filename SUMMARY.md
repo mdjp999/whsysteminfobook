@@ -3,7 +3,7 @@
    * [什么是延迟剥头皮](jieshao/smsycbtp.md)
    * [系统能做什么](jieshao/whatcando.md)
    * [真实做单记录](jieshao/realhistory.md)
-   * 系统购买
+   * [系统购买](jieshao/price.md)
    * 系统免费测试
 * 系统功能介绍
    * [系统运行](function/run.md)

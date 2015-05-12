@@ -12,7 +12,7 @@
    * [单子分析](function/fx.md)
 * 参数设置说明
    * [基础参数](cs/basic.md)
-   * 下单条件参数
-   * 下单数量参数
-   * 平单条件参数
+   * [下单条件参数](cs/ordersend.md)
+   * [下单数量参数](cs/ordervol.md)
+   * [平单条件参数](cs/orderclose.md)
 * [系统更新日志](update.md)

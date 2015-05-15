@@ -8,4 +8,3 @@
 # 联系方式
 * Email:admin#delayscalp.com
 * qq群:436245960
-* qq:1876322532
